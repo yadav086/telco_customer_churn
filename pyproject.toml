@@ -1,0 +1,23 @@
+[project]
+name = "telco-churn"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bokeh>=3.1.0",
+    "dask>=2026.7.1",
+    "dask-ml>=2025.1.0",
+    "fastapi>=0.141.1",
+    "joblib>=1.5.3",
+    "lightgbm>=4.7.0",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.5",
+    "plotly>=6.9.0",
+    "pymnl>=0.6",
+    "pyyaml>=6.0.3",
+    "seaborn>=0.13.2",
+    "streamlit>=1.61.1",
+    "uvicorn>=0.52.3",
+    "xgboost>=3.2.0",
+]
