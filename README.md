@@ -55,7 +55,7 @@ The application can be used to:
                                ▼
                     ┌──────────────────────┐
                     │ Data Cleaning        │
-                    │ Missing Values       │
+                    │                      │
                     │ Column Standardizing │
                     └──────────┬───────────┘
                                │
@@ -69,8 +69,8 @@ The application can be used to:
                  ▼                           ▼
        ┌──────────────────┐        ┌──────────────────┐
        │ Numeric Features │        │ Categorical      │
-       │ Median Imputation│        │ Features         │
-       │ Yeo-Johnson      │        │ Imputation       │
+       │                  │        │ Features         │
+       │ Yeo-Johnson      │        │                  │
        └────────┬─────────┘        │ Target Encoding  │
                 │                  └────────┬─────────┘
                 └────────────┬─────────────┘
